@@ -1,5 +1,5 @@
 # Título del Proyecto 
-![Imagen de Portada](recurso.jpg) 
+![Imagen de Portada](img/recurso.jpg) 
 
 ## Descripción 
 Breve descripción del proyecto, objetivos y funcionalidades principales. 
